@@ -1,2 +1,1 @@
-# Zeal Combat Text
-## ArcheAge Classic Addon
+# ArcheAge Classic Addon - Zeal Combat Text
